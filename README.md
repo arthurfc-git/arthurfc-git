@@ -3,7 +3,7 @@
 <h3 align="center">🔹Dev de Software/Backend no Brasil🔹</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipclip.com%2Fwp-content%2Fuploads%2Felementor%2Fthumbs%2Fcc-programmer-2-ovmwuk5y3uzvblmccxrq3c3qzzvodph9skmt3g579c.png&f=1&nofb=1&ipt=2c0fc43018efd2c068b74ef1461b353f078827ff9b255650dfb124e7e52ae273&ipo=images">
 <h3>👋 Um pouco sobre mim:</h3>
-<b>Sou um desenvolvedor iniciante com grande interesse em Backend e Software. Embora esteja no começo da minha carreira, estou motivado a aprender e crescer nas áreas essenciais para criar soluções tecnológicas robustas e eficientes.</b>
+<b>Sou um desenvolvedor iniciante com grande interesse em Backend e futuramente Frontend. Embora esteja no começo da minha carreira, estou motivado a aprender e crescer nas áreas essenciais para criar soluções tecnológicas robustas e eficientes.</b>
 
 <!-- Div central -->
 <h3>💡 Meu status atualmente:</h3>
