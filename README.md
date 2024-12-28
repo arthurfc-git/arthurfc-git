@@ -8,7 +8,9 @@
 <!-- Div central -->
 <h3>💡 Meu status atualmente:</h3>
 
-<b>🔹 🔭 Atualmente estou procurando emprego.</b><br>
+<b>🔹 🏫 Estou no segundo ano da faculdade de Ciências da Computação!</b><br>
+
+<b>🔹 🔭 Atualmente estou procurando estágio.</b><br>
 
 <b>🔹 🛠️ Estou disposto a trabalhar em qualquer projeto!</b><br>
 
@@ -18,6 +20,7 @@
 
 <!-- Linguagens que eu uso -->
 <h3>🧰 Linguagens que eu trabalho com atualmente:</h3>
+<a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)"> <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" /></a> <!-- C -->
 <a href="https://pt.wikipedia.org/wiki/Python"> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" /></a> <!-- Python -->
 <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)"> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" /></a> <!-- Java -->
 <a href="https://pt.wikipedia.org/wiki/HTML"> <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)" /></a> <!-- HTML -->
